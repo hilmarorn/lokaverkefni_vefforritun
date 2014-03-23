@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "busNr": "2",
+      "busses": [
+        {
+          "unixTime": 1385317430,
+          "from": "Hlemmur",
+          "to": "Versalir"
+        },
+        {
+          "unixTime": 1385317441,
+          "from": "Versalir",
+          "to": "Hlemmur"
+        }
+      ]
+    }
+  ]
+}

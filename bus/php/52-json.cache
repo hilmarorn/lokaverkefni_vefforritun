@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "busNr": "52",
+      "busses": [
+        {
+          "unixTime": 1385229566,
+          "from": "Mjódd",
+          "to": "Landeyjahöfn"
+        }
+      ]
+    }
+  ]
+}

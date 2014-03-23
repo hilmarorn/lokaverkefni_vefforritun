@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "busNr": "14",
+      "busses": [
+        {
+          "unixTime": 1385229562,
+          "from": "Verzló",
+          "to": "Grandi"
+        },
+        {
+          "unixTime": 1385229560,
+          "from": "Grandi",
+          "to": "Verzló"
+        },
+        {
+          "unixTime": 1385229572,
+          "from": "Verzló",
+          "to": "Grandi"
+        }
+      ]
+    }
+  ]
+}

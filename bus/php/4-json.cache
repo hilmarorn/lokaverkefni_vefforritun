@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "busNr": "4",
+      "busses": [
+        {
+          "unixTime": 1385317553,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385317554,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385317535,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385317498,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        }
+      ]
+    }
+  ]
+}

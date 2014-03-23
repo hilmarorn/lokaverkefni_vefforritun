@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "busNr": "44",
+      "busses": [
+        {
+          "unixTime": 1385131633,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385131631,
+          "from": "Fjörður",
+          "to": "Fjörður"
+        },
+        {
+          "unixTime": 1385131628,
+          "from": "Fjörður",
+          "to": "Fjörður"
+        }
+      ]
+    }
+  ]
+}

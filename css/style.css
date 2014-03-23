@@ -1,0 +1,651 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	width:100%;
+	margin: 0 auto;	
+	font-size: 100%;
+	background: url('../background.jpg') no-repeat fixed;
+	
+	background-size: 100% Auto;
+}
+
+#wrap {
+	width: 64em;
+	margin: 0 auto;
+	margin-top: 2%;
+	background-color:#fff;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	padding-top:1%;
+	-moz-border-radius: 0.938em;
+	border-radius: 0.938em;
+	overflow: auto;
+	
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+	
+	opacity: 0.8;
+}
+
+.clear {
+	clear:both;
+}
+
+footer {
+	margin-top:1%;
+	background-color:#fff;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+
+	opacity: 0.8;
+}
+
+header nav {
+	text-transform:uppercase;
+	padding-bottom: 2%;
+}
+
+header nav li {
+	display: inline-block;
+	font-size: 1em;
+	text-transform:uppercase;
+}
+
+footer nav li {
+	display: inline-block;
+	font-size: 1em;
+	text-transform:uppercase;
+	padding: 0.625em 0.938em;
+	border-right: 1px solid #ccc;
+	margin: 2% 0%;
+}
+
+footer nav li:last-child {
+	border: none;
+}
+
+#authorImg{
+	width:100%;
+}
+
+#authorImg img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3%;
+	-moz-border-radius: 0.938em;
+	border-radius: 0.938em;
+	
+}
+
+/*----------------Her er haus css*/
+#logoIndex{
+	//width:100%;
+}
+
+#logoIndex img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logoSide{
+	width: 35%;
+}
+
+#logoSide img{
+	margin-top: 8%;
+	width: 15.625em;
+	height: 4.688em;
+}
+
+h1{
+	font-size: 2em;
+	font-family:Georgia;
+	margin-bottom: 10%;
+}
+
+h3{
+	font-size: 1.5em;
+	font-family: Georgia;
+}
+
+#headIndex{
+	padding-left: 4%;
+}
+
+.paraIndex{
+	font-size: 1em;
+	font-family: Georgia;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+.headDiv div{
+	display: inline-block;
+}
+
+.buttonHeadder {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #63b8ee), color-stop(1, #468ccf) );
+	background:-moz-linear-gradient( center top, #63b8ee 5%, #468ccf 100% );
+	background-color:#63b8ee;
+	-webkit-border-top-left-radius:0.938em;
+	-moz-border-radius-topleft:0.938em;
+	border-top-left-radius:0.938em;
+	-webkit-border-top-right-radius:0.938em;
+	-moz-border-radius-topright:0.938em;
+	border-top-right-radius:0.938em;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#14396a;
+	font-family:Georgia;
+	font-size:0.750em;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #7cacde;
+}
+
+.buttonHeadder:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #468ccf), color-stop(1, #63b8ee) );
+	background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+	background-color:#468ccf;
+}
+.buttonHeadder:active {
+	position:relative;
+	top:1px;
+}
+
+/*----------------Her er footer css*/
+footer p{
+	padding-right: 2%;
+	padding-bottom: 2%;
+	font-style: italic;
+	font-family: Georgia;
+	font-size: 0.8em;
+	margin-left: 11%;
+}
+
+
+.buttonFooter{
+	text-decoration:none;
+	color: #14396a;
+	font-family: Georgia;
+	font-size: 0.8em;
+}
+
+.buttonFooter:hover{
+	text-decoration: underline;
+	color: #63b8ee;
+}
+
+footer nav{
+	margin-left: 10%;
+}
+
+/*----------------Her er form css*/
+.error{
+	color: #f00;
+	padding-left: 5%;
+	text-decoration: underline;
+	padding-bottom: 2%;
+	
+}
+
+form{
+	width: 40%;
+	float:left;
+	font-size: 1em;
+	font-family: Georgia;
+	padding-top: 2%;
+	padding-left: 2%;
+}
+
+.eventList{
+	width: 50%;
+	float: left;
+	padding-left: 4%;
+	font-size: 1.2em;
+	font-family: Georgia;
+}
+
+.eventList p{
+	font-weight: bold;
+	border-bottom: 1px solid #14396a;
+}
+
+h4 a{
+	text-decoration: none;
+	color: #14396a;
+}
+
+h4 a:hover{
+	color: #63b8ee;	
+}
+
+.formClass{
+	padding:2%;
+	width: 95%;
+	overflow: auto;
+}	
+
+.labelDiv{
+	width: 35%;
+	float: left;
+}
+
+.inputDiv input{
+	width: 60%;
+	float: left;
+}
+
+.inputDiv textarea{
+	width: 60%;
+	float: left;
+	height: 12.5em;
+}
+
+#button{
+	-moz-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #63b8ee), color-stop(1, #468ccf) );
+	background:-moz-linear-gradient( center top, #63b8ee 5%, #468ccf 100% );
+	background-color:#63b8ee;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#14396a;
+	font-family:Georgia;
+	font-size:13px;
+	font-weight:bold;
+	font-style:normal;
+	height:34px;
+	line-height:34px;
+	width:82px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #7cacde;
+	margin-top: 3%;
+}
+
+#button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #468ccf), color-stop(1, #63b8ee) );
+	background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+	background-color:#468ccf;
+}
+
+#button:active {
+	position:relative;
+	top:1px;
+}	
+
+/*----------------Her er form description css*/
+.descr{
+	display: block;
+	width: 60%;
+	overflow: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.descr h3{
+	border-bottom: 1px solid #14396a;	
+}
+
+.descrTitle{
+	width: 20%;
+	float: left;
+	font-size: 1em;
+	font-family: Georgia;
+	padding: 1%;
+	
+}
+
+.descrCont{
+	width: 70%;
+	float: left;
+	margin-left: 2%;
+	font-size: 1em;
+	font-family: Georgia;
+	padding:1%;
+
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+}
+
+.descriptions{
+	padding-left: 2%;
+}
+
+/*----------------Her er currency css*/
+.curr{
+	overflow: auto;
+	width: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1%;
+	font-family: Georgia;
+}
+
+#headCurr{
+	font-size: 1em;
+	border-bottom: 1px solid  #14396a;
+}
+
+.curr input{
+	width: 60%;
+	float: left;
+	height: 1.3em;
+}
+
+.currLabel{
+	width: 25%;
+	float: left;
+	margin-right: 3%;
+	overflow: auto;
+}
+
+.currLabel img{
+	width: 2em;
+	height: 1.2em;
+	padding-left: 1%;
+	float: right;
+}
+
+#currMore{
+	width: 25%;
+	float: right;
+}
+
+#currMore:hover{
+	text-decoration: underline;
+	color: #3399CC;
+}
+
+/*----------------Her er bus css*/
+#busSelect {
+	width: 13.750em;
+	height: 2.125em;
+	overflow: hidden;
+	background: url(../new_arrow.jpg) no-repeat right #ddd;
+	border: 1px solid #ccc;
+	-webkit-appearance: none;
+	font-size: 0.8em;
+	font-family:Georgia;
+	padding-left: 3%;
+}
+
+#busSelect select {
+	background: transparent;
+	width: 14.375em;
+	padding: 0.313em;
+	font-size: 1em;
+	line-height: 1;
+	border: 0;
+	border-radius: 0;
+	height: 2.125em;
+	-webkit-appearance: none;
+}
+
+#map-canvas {
+	height:31.250em;
+	width:31.250em;
+
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+
+}
+
+.busCont{
+	float: left;
+	width: 40%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.busMap{
+	float: left;
+}
+
+.busDiv{
+	-moz-border-radius: 0.938em;
+	border-radius: 0.938em;
+	margin-bottom: 2%;
+	margin-right: 2%;
+	margin-left: 2%;
+
+	width: 50%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+}
+
+.busDiv p{
+	padding-left: 15%;
+	font-size: 1em;
+	font-family: Georgia;
+	color: #14396a;
+
+}
+
+#busNr{
+	font-size: 1.2em;
+	font-family: Georgia;
+	border-bottom: 1px solid #14396a;	
+}
+
+/*----------------Her er earthquakes css*/
+.eqMap{
+	width: 100%;
+	overflow: auto;
+}
+
+.eqMap div{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.eqMap p{
+	margin-bottom: 3%;
+	text-align: center;
+	font-size: 1em;
+	font-family: Georgia;
+	
+}
+
+/*----------------Her er flights css*/
+input[type=radio]{
+    	display:none; 
+    	margin:0.625em;
+}
+ 
+input[type=radio] + label{
+    	display:block;
+	width: 40%;
+	margin-bottom: 1%;
+    	padding: 4px 0.750em;
+    	background-color: #e7e7e7;
+    	border-color: #ddd;
+}
+
+input[type=radio]:checked + label{ 
+   	background-image: none;
+    	background-color:#d0d0d0;
+	border: 1px solid #383838;
+	
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+}
+
+#boxRadio div{
+	margin-left: 3%;
+	width: 100%;
+	display: inline;	
+}
+
+#boxRadio{
+	overflow: auto;
+	width: 15%;
+	float: left;
+}
+
+#contentFlight{
+	width: 85%;
+	float: left;
+}
+
+.flights{
+	width: 100%;
+	border-bottom: 1px solid #14396a;
+	overflow: auto;
+	font-size: 1em;
+	font-family: Georgia;
+}
+
+.flights:last-child {
+	border: none;
+}
+
+.flights:first-child {
+	border: none;
+}
+
+
+.parDiv p{
+	float: left;
+	width: 13%;	
+	text-align: center;
+}
+
+#headFlight{
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+	font-weight: bold;
+}
+
+/*----------------Her er weather css*/
+#stationNR{
+	width: 13.750em;
+	height: 2.125em;
+	overflow: hidden;
+	background: url(../new_arrow.jpg) no-repeat right #ddd;
+	border: 1px solid #ccc;
+	-webkit-appearance: none;
+	font-size: 0.8em;
+	font-family:Georgia;
+	padding-left: 3%;
+	
+}
+
+#stationNR select {
+	background: transparent;
+	width: 14.375em;
+	padding: 0.313em;
+	font-size: 1em;
+	line-height: 1;
+	border: 0;
+	border-radius: 0;
+	height: 2.125em;
+	-webkit-appearance: none;
+}
+
+#lang div{
+	width: 30%;
+}
+
+#lang{
+	width: 50%;
+}
+
+#weatherSet div{
+	float: left;
+	margin-right: 11%;
+}
+
+#weatherSet{
+	overflow: auto;
+	margin-bottom: 3%;
+	margin-left: 5%;
+}
+
+.weather{
+	-moz-border-radius: 0.938em;
+	border-radius: 0.938em;
+	margin-bottom: 2%;
+
+	width: 50%;
+	padding: 1% 3%;
+	margin-left: 5%;
+		
+	font-family: Georgia;
+	font-size: 1em;
+
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+}
+
+.weather h3{
+	border-bottom: 1px solid #14396a;
+}
+
+.weather p{
+	padding-left: 2%;
+	color: #14396a;
+
+}
+
+#slider{
+	width: 55%;
+	-moz-box-shadow: 0px 0px 0.813em #000000;
+	-webkit-box-shadow: 0px 0px 0.813em #000000;
+	box-shadow: 0px 0px 0.813em #000000;
+	
+	margin-left: 6%;
+	margin-bottom: 2%;
+
+}

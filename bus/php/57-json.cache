@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "busNr": "57",
+      "busses": [
+        {
+          "unixTime": 1385131641,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385131636,
+          "from": "Akureyri - Hof",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385131646,
+          "from": "Mjódd",
+          "to": "Akureyri - Hof"
+        }
+      ]
+    }
+  ]
+}

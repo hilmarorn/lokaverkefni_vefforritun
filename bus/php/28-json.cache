@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "busNr": "28",
+      "busses": [
+        {
+          "unixTime": 1385131701,
+          "from": "Mjódd",
+          "to": "Hamraborg"
+        },
+        {
+          "unixTime": 1385131695,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385131697,
+          "from": "Hamraborg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385131704,
+          "from": "Hamraborg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385131706,
+          "from": "Mjódd",
+          "to": "Hamraborg"
+        },
+        {
+          "unixTime": 1385131705,
+          "from": "Hamraborg",
+          "to": "Mjódd"
+        }
+      ]
+    }
+  ]
+}

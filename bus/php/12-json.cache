@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "busNr": "12",
+      "busses": [
+        {
+          "unixTime": 1385229348,
+          "from": "Skeljanes",
+          "to": "Breiðhöfði / Ártún"
+        },
+        {
+          "unixTime": 1385229349,
+          "from": "Breiðhöfði / Ártún",
+          "to": "Skeljanes"
+        },
+        {
+          "unixTime": 1385229342,
+          "from": "Breiðhöfði / Ártún",
+          "to": "Skeljanes"
+        },
+        {
+          "unixTime": 1385229347,
+          "from": "Skeljanes",
+          "to": "Breiðhöfði / Ártún"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "busNr": "1",
+      "busses": [
+        {
+          "unixTime": 1385235111,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385235111,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385235111,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385235108,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385235111,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        }
+      ]
+    }
+  ]
+}

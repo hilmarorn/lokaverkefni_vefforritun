@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "busNr": "15",
+      "busses": [
+        {
+          "unixTime": 1385229009,
+          "from": "Meistaravellir",
+          "to": "Reykjavegur"
+        },
+        {
+          "unixTime": 1385229003,
+          "from": "Meistaravellir",
+          "to": "Reykjavegur"
+        },
+        {
+          "unixTime": 1385229006,
+          "from": "Reykjavegur",
+          "to": "Meistaravellir"
+        },
+        {
+          "unixTime": 1385229004,
+          "from": "Reykjavegur",
+          "to": "Meistaravellir"
+        }
+      ]
+    }
+  ]
+}

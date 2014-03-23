@@ -1,0 +1,704 @@
+{
+  "results": [
+    {
+      "busNr": "1",
+      "busses": [
+        {
+          "unixTime": 1385126546,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126550,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Miðbær",
+          "to": "Miðbær"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385126544,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385126543,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Hlemmur",
+          "to": "Klukkuvellir"
+        },
+        {
+          "unixTime": 1385126542,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Klukkuvellir",
+          "to": "Hlemmur"
+        }
+      ]
+    },
+    {
+      "busNr": "2",
+      "busses": [
+        {
+          "unixTime": 1385126550,
+          "from": "Versalir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126549,
+          "from": "Versalir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Hlemmur",
+          "to": "Versalir"
+        },
+        {
+          "unixTime": 1385126499,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126543,
+          "from": "Miðbær",
+          "to": "Miðbær"
+        }
+      ]
+    },
+    {
+      "busNr": "3",
+      "busses": [
+        {
+          "unixTime": 1385126441,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126550,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126552,
+          "from": "Miðbær",
+          "to": "Miðbær"
+        },
+        {
+          "unixTime": 1385126550,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126467,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126542,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        }
+      ]
+    },
+    {
+      "busNr": "4",
+      "busses": [
+        {
+          "unixTime": 1385126552,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126497,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126543,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Miðbær",
+          "to": "Miðbær"
+        }
+      ]
+    },
+    {
+      "busNr": "5",
+      "busses": [
+        {
+          "unixTime": 1385126539,
+          "from": "Selásbraut / Þverás",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Hlemmur",
+          "to": "Elliðabraut / Árvað"
+        },
+        {
+          "unixTime": 1385126545,
+          "from": "Selásbraut / Þverás",
+          "to": "Hlemmur"
+        }
+      ]
+    },
+    {
+      "busNr": "6",
+      "busses": [
+        {
+          "unixTime": 1385126550,
+          "from": "Hlemmur",
+          "to": "Barðastaðir"
+        },
+        {
+          "unixTime": 1385126545,
+          "from": "Hlemmur",
+          "to": "Barðastaðir"
+        },
+        {
+          "unixTime": 1385126544,
+          "from": "Barðastaðir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126548,
+          "from": "Hlemmur",
+          "to": "Barðastaðir"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Barðastaðir",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Hlemmur",
+          "to": "Barðastaðir"
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Barðastaðir",
+          "to": "Hlemmur"
+        }
+      ]
+    },
+    {
+      "busNr": "11",
+      "busses": [
+        {
+          "unixTime": 1385126539,
+          "from": "Mjódd",
+          "to": "Nesvegur / Skerjabraut"
+        },
+        {
+          "unixTime": 1385126534,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Eiðistorg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126552,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126538,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126491,
+          "from": "Mjódd",
+          "to": "Nesvegur / Skerjabraut"
+        }
+      ]
+    },
+    {
+      "busNr": "12",
+      "busses": [
+        {
+          "unixTime": 1385126501,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Breiðhöfði / Ártún",
+          "to": "Skeljanes"
+        },
+        {
+          "unixTime": 1385126550,
+          "from": "Breiðhöfði / Ártún",
+          "to": "Skeljanes"
+        },
+        {
+          "unixTime": 1385126551,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126544,
+          "from": "Skeljanes",
+          "to": "Breiðhöfði / Ártún"
+        },
+        {
+          "unixTime": 1385126553,
+          "from": "Skeljanes",
+          "to": "Breiðhöfði / Ártún"
+        }
+      ]
+    },
+    {
+      "busNr": "13",
+      "busses": [
+        {
+          "unixTime": 1385126551,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126515,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126542,
+          "from": "Sléttuvegur",
+          "to": "Öldugrandi"
+        },
+        {
+          "unixTime": 1385126552,
+          "from": "Öldugrandi",
+          "to": "Sléttuvegur"
+        }
+      ]
+    },
+    {
+      "busNr": "14",
+      "busses": [
+        {
+          "unixTime": 1385126545,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Verzló",
+          "to": "Grandi"
+        },
+        {
+          "unixTime": 1385126546,
+          "from": "Grandi",
+          "to": "Verzló"
+        },
+        {
+          "unixTime": 1385126552,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126552,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126549,
+          "from": "Verzló",
+          "to": "Grandi"
+        }
+      ]
+    },
+    {
+      "busNr": "15",
+      "busses": [
+        {
+          "unixTime": 1385126549,
+          "from": "Meistaravellir",
+          "to": "Reykjavegur"
+        },
+        {
+          "unixTime": 1385126475,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126552,
+          "from": "Meistaravellir",
+          "to": "Reykjavegur"
+        },
+        {
+          "unixTime": 1385126540,
+          "from": "Reykjavegur",
+          "to": "Meistaravellir"
+        },
+        {
+          "unixTime": 1385126543,
+          "from": "Reykjavegur",
+          "to": "Meistaravellir"
+        },
+        {
+          "unixTime": 1385126542,
+          "from": " ",
+          "to": " "
+        }
+      ]
+    },
+    {
+      "busNr": "17",
+      "busses": [
+        {
+          "unixTime": 1385126541,
+          "from": "Mjódd",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126547,
+          "from": "Hlemmur",
+          "to": "Mjódd"
+        }
+      ]
+    },
+    {
+      "busNr": "18",
+      "busses": [
+        {
+          "unixTime": 1385126542,
+          "from": "Hlemmur",
+          "to": "Háholt"
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Háholt",
+          "to": "Hlemmur"
+        },
+        {
+          "unixTime": 1385126542,
+          "from": "Hlemmur",
+          "to": "Háholt"
+        },
+        {
+          "unixTime": 1385126548,
+          "from": "Háholt",
+          "to": "Hlemmur"
+        }
+      ]
+    },
+    {
+      "busNr": "19",
+      "busses": [
+        {
+          "unixTime": 1385126548,
+          "from": "Selásbraut / Þverás",
+          "to": "Nauthóll - HR"
+        },
+        {
+          "unixTime": 1385126551,
+          "from": "Nauthóll - HR",
+          "to": "Elliðabraut / Árvað"
+        },
+        {
+          "unixTime": 1385126548,
+          "from": "Nauthóll - HR",
+          "to": "Elliðabraut / Árvað"
+        }
+      ]
+    },
+    {
+      "busNr": "21",
+      "busses": [
+        {
+          "unixTime": 1385126544,
+          "from": "Fjörður",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126543,
+          "from": "Fjörður",
+          "to": "Mjódd"
+        }
+      ]
+    },
+    {
+      "busNr": "22",
+      "busses": [
+        {
+          "unixTime": 1385126551,
+          "from": "Skútahraun / Slökkvistöð",
+          "to": "Fjörður"
+        }
+      ]
+    },
+    {
+      "busNr": "23",
+      "busses": [
+        {
+          "unixTime": 1385126544,
+          "from": "Ásgarður",
+          "to": "Ásgarður"
+        }
+      ]
+    },
+    {
+      "busNr": "24",
+      "busses": [
+        {
+          "unixTime": 1385126467,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126541,
+          "from": "Ásgarður",
+          "to": "Spöngin"
+        },
+        {
+          "unixTime": 1385126505,
+          "from": "Spöngin",
+          "to": "Ásgarður"
+        },
+        {
+          "unixTime": 1385126540,
+          "from": "Spöngin",
+          "to": "Ásgarður"
+        },
+        {
+          "unixTime": 1385126549,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126539,
+          "from": " ",
+          "to": " "
+        }
+      ]
+    },
+    {
+      "busNr": "26",
+      "busses": [
+        {
+          "unixTime": 1385126548,
+          "from": "Spöngin",
+          "to": "Fylkisvegur"
+        }
+      ]
+    },
+    {
+      "busNr": "28",
+      "busses": [
+        {
+          "unixTime": 1385126550,
+          "from": "Mjódd",
+          "to": "Hamraborg"
+        },
+        {
+          "unixTime": 1385126545,
+          "from": "Hamraborg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385126539,
+          "from": "Mjódd",
+          "to": "Hamraborg"
+        }
+      ]
+    },
+    {
+      "busNr": "31",
+      "busses": [
+        {
+          "unixTime": 1385126552,
+          "from": "Gufunesbær",
+          "to": "Egilshöll"
+        },
+        {
+          "unixTime": 1385126544,
+          "from": "Egilshöll",
+          "to": "Gufunesbær"
+        }
+      ]
+    },
+    {
+      "busNr": "35",
+      "busses": [
+        {
+          "unixTime": 1385126538,
+          "from": "Hamraborg",
+          "to": "Hamraborg"
+        }
+      ]
+    },
+    {
+      "busNr": "43",
+      "busses": [
+        {
+          "unixTime": 1385126552,
+          "from": "Fjörður",
+          "to": "Fjörður"
+        }
+      ]
+    },
+    {
+      "busNr": "51",
+      "busses": [
+        {
+          "unixTime": 1385126540,
+          "from": "Mjódd",
+          "to": "Fossnesti"
+        },
+        {
+          "unixTime": 1385126548,
+          "from": " ",
+          "to": " "
+        }
+      ]
+    },
+    {
+      "busNr": "52",
+      "busses": [
+        {
+          "unixTime": 1385126546,
+          "from": "Landeyjahöfn",
+          "to": "Mjódd"
+        }
+      ]
+    },
+    {
+      "busNr": "56",
+      "busses": [
+        {
+          "unixTime": 1385126552,
+          "from": " ",
+          "to": " "
+        }
+      ]
+    },
+    {
+      "busNr": "57",
+      "busses": [
+        {
+          "unixTime": 1385126547,
+          "from": "Mjódd",
+          "to": "Akureyri - Hof"
+        },
+        {
+          "unixTime": 1385126538,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126484,
+          "from": " ",
+          "to": " "
+        },
+        {
+          "unixTime": 1385126552,
+          "from": "Akureyri - Hof",
+          "to": "Mjódd"
+        }
+      ]
+    },
+    {
+      "busNr": "73",
+      "busses": [
+        {
+          "unixTime": 1385126464,
+          "from": " ",
+          "to": " "
+        }
+      ]
+    },
+    {
+      "busNr": "75",
+      "busses": [
+        {
+          "unixTime": 1385126550,
+          "from": "Fossnesti",
+          "to": "Fossnesti"
+        }
+      ]
+    },
+    {
+      "busNr": "78",
+      "busses": [
+        {
+          "unixTime": 1385126545,
+          "from": "Akureyri - Hof",
+          "to": "Siglufjörður - Olís"
+        }
+      ]
+    },
+    {
+      "busNr": "79",
+      "busses": [
+        {
+          "unixTime": 1385126540,
+          "from": "Akureyri - Hof",
+          "to": "Húsavík"
+        }
+      ]
+    },
+    {
+      "busNr": "R1",
+      "busses": [
+        {
+          "unixTime": 1385126551,
+          "from": "Reykjaneshöll",
+          "to": "Reykjaneshöll"
+        }
+      ]
+    },
+    {
+      "busNr": "R2",
+      "busses": [
+        {
+          "unixTime": 1385126544,
+          "from": "Reykjaneshöll",
+          "to": "Reykjaneshöll"
+        }
+      ]
+    },
+    {
+      "busNr": "R3",
+      "busses": [
+        {
+          "unixTime": 1385126548,
+          "from": "Reykjaneshöll",
+          "to": "Reykjaneshöll"
+        }
+      ]
+    }
+  ]
+}

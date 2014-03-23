@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "busNr": "35",
+      "busses": [
+        {
+          "unixTime": 1385229215,
+          "from": "Hamraborg",
+          "to": "Hamraborg"
+        }
+      ]
+    }
+  ]
+}

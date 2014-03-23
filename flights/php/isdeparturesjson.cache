@@ -1,0 +1,247 @@
+{
+  "results": [
+    {
+      "date": "25. nóv.",
+      "flightNumber": "X9403",
+      "to": "WOW air",
+      "plannedArrival": "Paris Charles De Gaulle",
+      "realArrival": "06:50",
+      "status": "06:58",
+      "undefined": "Farin 06:48"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "X9201",
+      "to": "WOW air",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "07:00",
+      "status": "07:03",
+      "undefined": "Farin 06:54"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "X9303",
+      "to": "WOW air",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "07:15",
+      "status": "07:16",
+      "undefined": "Farin 07:06"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI342",
+      "to": "Icelandair",
+      "plannedArrival": "Helsinki Vantaa",
+      "realArrival": "07:30",
+      "status": "07:45",
+      "undefined": "Farin 07:33"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI318",
+      "to": "Icelandair",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "07:35",
+      "status": "07:43",
+      "undefined": "Farin 07:34"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI306",
+      "to": "Icelandair",
+      "plannedArrival": "Stockholm Arlanda",
+      "realArrival": "07:35",
+      "status": "07:51",
+      "undefined": "Farin 07:43"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI520",
+      "to": "Icelandair",
+      "plannedArrival": "Frankfurt Main",
+      "realArrival": "07:35",
+      "status": "07:37",
+      "undefined": "Farin 07:30"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI502",
+      "to": "Icelandair",
+      "plannedArrival": "Amsterdam Schiphol",
+      "realArrival": "07:40",
+      "status": "08:05",
+      "undefined": "Farin 07:55"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI542",
+      "to": "Icelandair",
+      "plannedArrival": "Paris Charles De Gaulle",
+      "realArrival": "07:40",
+      "status": "07:47",
+      "undefined": "Farin 07:39"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI440",
+      "to": "Icelandair",
+      "plannedArrival": "Manchester",
+      "realArrival": "08:00",
+      "status": "07:56",
+      "undefined": "Farin 07:49"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI204",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "08:00",
+      "status": "08:13",
+      "undefined": "Farin 08:03"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI450",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "09:00",
+      "status": "09:07",
+      "undefined": "Farin 09:00"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "EZY2296",
+      "to": "easyJet",
+      "plannedArrival": "London Luton",
+      "realArrival": "11:30",
+      "status": "11:30",
+      "undefined": "Lokaútkall"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "SK4788",
+      "to": "SAS",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "12:45",
+      "status": "12:45",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI212",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "14:15",
+      "status": "14:15",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "X9205",
+      "to": "WOW air",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "15:35",
+      "status": "15:35",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI454",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "16:30",
+      "status": "16:30",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI681",
+      "to": "Icelandair",
+      "plannedArrival": "Seattle Tacoma Intl",
+      "realArrival": "16:55",
+      "status": "16:55",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI623",
+      "to": "Icelandair",
+      "plannedArrival": "New York Newark Liberty Intl",
+      "realArrival": "17:00",
+      "status": "17:00",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI631",
+      "to": "Icelandair",
+      "plannedArrival": "Boston Logan Intl",
+      "realArrival": "17:00",
+      "status": "17:00",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI603",
+      "to": "Icelandair",
+      "plannedArrival": "Toronto Lester B Pearson",
+      "realArrival": "17:00",
+      "status": "17:00",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI615",
+      "to": "Icelandair",
+      "plannedArrival": "New York JFK",
+      "realArrival": "17:05",
+      "status": "17:05",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI689",
+      "to": "Icelandair",
+      "plannedArrival": "Orlando Sanford Intl",
+      "realArrival": "17:10",
+      "status": "17:10",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI633",
+      "to": "Icelandair",
+      "plannedArrival": "Boston Logan Intl",
+      "realArrival": "17:15",
+      "status": "17:15",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "FI746",
+      "to": "Icelandair",
+      "plannedArrival": "Liege\\East Midlands",
+      "realArrival": "18:00",
+      "status": "18:00",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "BBD6809",
+      "to": "Bluebird",
+      "plannedArrival": "Cologne Bonn",
+      "realArrival": "18:15",
+      "status": "18:15",
+      "undefined": "Á áætlun"
+    },
+    {
+      "date": "25. nóv.",
+      "flightNumber": "EZY6942",
+      "to": "easyJet",
+      "plannedArrival": "Edinburgh",
+      "realArrival": "21:05",
+      "status": "21:05",
+      "undefined": "Á áætlun"
+    }
+  ]
+}

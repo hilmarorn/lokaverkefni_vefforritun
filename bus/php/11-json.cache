@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "busNr": "11",
+      "busses": [
+        {
+          "unixTime": 1385323403,
+          "from": "Eiðistorg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385323399,
+          "from": "Eiðistorg",
+          "to": "Mjódd"
+        },
+        {
+          "unixTime": 1385323401,
+          "from": "Mjódd",
+          "to": "Nesvegur / Skerjabraut"
+        }
+      ]
+    }
+  ]
+}

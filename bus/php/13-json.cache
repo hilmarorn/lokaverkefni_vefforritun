@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "busNr": "13",
+      "busses": [
+        {
+          "unixTime": 1385235151,
+          "from": "Sléttuvegur",
+          "to": "Öldugrandi"
+        },
+        {
+          "unixTime": 1385235154,
+          "from": "Öldugrandi",
+          "to": "Sléttuvegur"
+        }
+      ]
+    }
+  ]
+}

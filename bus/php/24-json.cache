@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "busNr": "24",
+      "busses": [
+        {
+          "unixTime": 1385235127,
+          "from": "Spöngin",
+          "to": "Ásgarður"
+        },
+        {
+          "unixTime": 1385235122,
+          "from": "Ásgarður",
+          "to": "Spöngin"
+        },
+        {
+          "unixTime": 1385235115,
+          "from": "Ásgarður",
+          "to": "Spöngin"
+        }
+      ]
+    }
+  ]
+}

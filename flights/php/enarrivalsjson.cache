@@ -1,0 +1,269 @@
+{
+  "results": [
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI784",
+      "to": "Icelandair",
+      "plannedArrival": "New York JFK",
+      "realArrival": "02:00",
+      "status": "01:54",
+      "undefined": "Landed 02:07"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI688",
+      "to": "Icelandair",
+      "plannedArrival": "Orlando Sanford Intl",
+      "realArrival": "06:10",
+      "status": "05:55",
+      "undefined": "Landed 06:07"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI644",
+      "to": "Icelandair",
+      "plannedArrival": "Washington Dulles Intl",
+      "realArrival": "06:20",
+      "status": "06:12",
+      "undefined": "Landed 06:18"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI622",
+      "to": "Icelandair",
+      "plannedArrival": "New York Newark Liberty Intl",
+      "realArrival": "06:35",
+      "status": "07:20",
+      "undefined": "Landed 07:26"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI630",
+      "to": "Icelandair",
+      "plannedArrival": "Boston Logan Intl",
+      "realArrival": "06:40",
+      "status": "06:29",
+      "undefined": "Landed 06:35"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI680",
+      "to": "Icelandair",
+      "plannedArrival": "Seattle Tacoma Intl",
+      "realArrival": "06:45",
+      "status": "06:39",
+      "undefined": "Landed 06:44"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI614",
+      "to": "Icelandair",
+      "plannedArrival": "New York JFK",
+      "realArrival": "06:45",
+      "status": "06:06",
+      "undefined": "Landed 06:11"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "EZY1805",
+      "to": "easyJet",
+      "plannedArrival": "Manchester",
+      "realArrival": "10:35",
+      "status": "10:35",
+      "undefined": "Landed 10:43"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "EZY2295",
+      "to": "easyJet",
+      "plannedArrival": "London Luton",
+      "realArrival": "10:50",
+      "status": "10:52",
+      "undefined": "Landed 11:00"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "SK4787",
+      "to": "SAS",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "11:45",
+      "status": "12:05",
+      "undefined": "Landed 12:10"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "DY1170",
+      "to": "Norwegian Air Shuttle",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "11:50",
+      "status": "11:53",
+      "undefined": "Landed 12:00"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "X9202",
+      "to": "WOW air",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "14:25",
+      "status": "14:17",
+      "undefined": "Landed 14:25"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "X9122",
+      "to": "WOW air",
+      "plannedArrival": "Berlin Schoenefeld",
+      "realArrival": "15:10",
+      "status": "15:06",
+      "undefined": "Landed 15:15"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI471",
+      "to": "Icelandair",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "15:30",
+      "status": "15:35",
+      "undefined": "Landed 15:44"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI503",
+      "to": "Icelandair",
+      "plannedArrival": "Amsterdam Schiphol",
+      "realArrival": "15:30",
+      "status": "15:25",
+      "undefined": "Landed 15:32"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI205",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "15:30",
+      "status": "15:49",
+      "undefined": "Landed 15:58"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI431",
+      "to": "Icelandair",
+      "plannedArrival": "Glasgow",
+      "realArrival": "15:40",
+      "status": "15:33",
+      "undefined": "Landed 15:40"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI319",
+      "to": "Icelandair",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "15:45",
+      "status": "15:42",
+      "undefined": "Landed 15:50"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI307",
+      "to": "Icelandair",
+      "plannedArrival": "Stockholm Arlanda",
+      "realArrival": "15:45",
+      "status": "15:39",
+      "undefined": "Landed 15:45"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI543",
+      "to": "Icelandair",
+      "plannedArrival": "Paris Charles De Gaulle",
+      "realArrival": "15:50",
+      "status": "15:30",
+      "undefined": "Landed 15:37"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI451",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "16:00",
+      "status": "15:55",
+      "undefined": "Landed 16:04"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI533",
+      "to": "Icelandair",
+      "plannedArrival": "Munich Franz Joseph Strauss In",
+      "realArrival": "16:00",
+      "status": "16:02",
+      "undefined": "Landed 16:09"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI775",
+      "to": "Icelandair",
+      "plannedArrival": "Liege",
+      "realArrival": "16:10",
+      "status": "16:16",
+      "undefined": "Landed 16:23"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI521",
+      "to": "Icelandair",
+      "plannedArrival": "Frankfurt Main",
+      "realArrival": "16:15",
+      "status": "16:22",
+      "undefined": "Landed 16:30"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI213",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "22:20",
+      "status": "22:46",
+      "undefined": "Confirm. 22:46"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "X9308",
+      "to": "WOW air",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "23:05",
+      "status": "23:05"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI325",
+      "to": "Icelandair",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "23:10",
+      "status": "23:10"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI455",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "23:35",
+      "status": "23:35"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI313",
+      "to": "Icelandair",
+      "plannedArrival": "Stockholm Arlanda",
+      "realArrival": "23:35",
+      "status": "23:35"
+    },
+    {
+      "date": "24. Nov",
+      "flightNumber": "FI477",
+      "to": "Icelandair",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "23:55",
+      "status": "23:55"
+    }
+  ]
+}

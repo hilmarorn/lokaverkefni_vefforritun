@@ -1,0 +1,247 @@
+{
+  "results": [
+    {
+      "date": "12. Nov",
+      "flightNumber": "GB2270",
+      "to": "ABX AIR Inc.",
+      "plannedArrival": "George Bush Intcntl Houston",
+      "realArrival": "03:30",
+      "status": "04:33",
+      "undefined": "Departed 04:17"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "UKL4074",
+      "to": "Ukraine Airalliance",
+      "plannedArrival": "Chalons Vatry",
+      "realArrival": "06:00",
+      "status": "03:09",
+      "undefined": "Departed 03:00"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "X9121",
+      "to": "WOW air",
+      "plannedArrival": "Berlin Schoenefeld",
+      "realArrival": "06:50",
+      "status": "07:14",
+      "undefined": "Departed 07:00"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "X9303",
+      "to": "WOW air",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "07:15",
+      "status": "07:40",
+      "undefined": "Departed 07:27"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI532",
+      "to": "Icelandair",
+      "plannedArrival": "Munich Franz Joseph Strauss In",
+      "realArrival": "07:20",
+      "status": "07:33",
+      "undefined": "Departed 07:23"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI430",
+      "to": "Icelandair",
+      "plannedArrival": "Glasgow",
+      "realArrival": "07:35",
+      "status": "07:49",
+      "undefined": "Departed 07:38"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI318",
+      "to": "Icelandair",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "07:35",
+      "status": "07:46",
+      "undefined": "Departed 07:33"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI306",
+      "to": "Icelandair",
+      "plannedArrival": "Stockholm Arlanda",
+      "realArrival": "07:35",
+      "status": "07:50",
+      "undefined": "Departed 07:38"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI502",
+      "to": "Icelandair",
+      "plannedArrival": "Amsterdam Schiphol",
+      "realArrival": "07:40",
+      "status": "07:52",
+      "undefined": "Departed 07:43"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI542",
+      "to": "Icelandair",
+      "plannedArrival": "Paris Charles De Gaulle",
+      "realArrival": "07:40",
+      "status": "08:03",
+      "undefined": "Departed 07:51"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI204",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "08:00",
+      "status": "08:17",
+      "undefined": "Departed 08:03"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI470",
+      "to": "Icelandair",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "08:15",
+      "status": "08:21",
+      "undefined": "Departed 08:10"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI450",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "09:00",
+      "status": "09:10",
+      "undefined": "Departed 08:58"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "DY1171",
+      "to": "Norwegian Air Shuttle",
+      "plannedArrival": "Oslo Airport",
+      "realArrival": "12:35",
+      "status": "13:00",
+      "undefined": "Departed 12:44"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI212",
+      "to": "Icelandair",
+      "plannedArrival": "Copenhagen",
+      "realArrival": "14:15",
+      "status": "14:25",
+      "undefined": "Departed 14:15"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "X9205",
+      "to": "WOW air",
+      "plannedArrival": "London Gatwick",
+      "realArrival": "15:35",
+      "status": "16:01",
+      "undefined": "Departed 15:49"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI454",
+      "to": "Icelandair",
+      "plannedArrival": "London Heathrow",
+      "realArrival": "16:30",
+      "status": "17:03",
+      "undefined": "Departed 16:57"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI681",
+      "to": "Icelandair",
+      "plannedArrival": "Seattle Tacoma Intl",
+      "realArrival": "16:55",
+      "status": "18:06",
+      "undefined": "Departed 17:55"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI623",
+      "to": "Icelandair",
+      "plannedArrival": "New York Newark Liberty Intl",
+      "realArrival": "17:00",
+      "status": "17:17",
+      "undefined": "Departed 17:09"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI631",
+      "to": "Icelandair",
+      "plannedArrival": "Boston Logan Intl",
+      "realArrival": "17:00",
+      "status": "17:24",
+      "undefined": "Departed 17:12"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI645",
+      "to": "Icelandair",
+      "plannedArrival": "Washington Dulles Intl",
+      "realArrival": "17:00",
+      "status": "17:54",
+      "undefined": "Departed 17:45"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI671",
+      "to": "Icelandair",
+      "plannedArrival": "Denver Intl",
+      "realArrival": "17:00",
+      "status": "17:09",
+      "undefined": "Departed 17:00"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI615",
+      "to": "Icelandair",
+      "plannedArrival": "New York JFK",
+      "realArrival": "17:05",
+      "status": "17:22",
+      "undefined": "Departed 17:12"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI689",
+      "to": "Icelandair",
+      "plannedArrival": "Orlando Sanford Intl",
+      "realArrival": "17:10",
+      "status": "17:27",
+      "undefined": "Departed 17:12"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI746",
+      "to": "Icelandair",
+      "plannedArrival": "East Midlands",
+      "realArrival": "18:00",
+      "status": "18:18",
+      "undefined": "Departed 18:03"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "FI782",
+      "to": "Icelandair",
+      "plannedArrival": "Liege",
+      "realArrival": "20:15",
+      "status": "20:25",
+      "undefined": "Departed 20:16"
+    },
+    {
+      "date": "12. Nov",
+      "flightNumber": "BBD6809",
+      "to": "Bluebird",
+      "plannedArrival": "Cologne Bonn",
+      "realArrival": "20:55",
+      "status": "21:10",
+      "undefined": "Departed 20:55"
+    }
+  ]
+}
